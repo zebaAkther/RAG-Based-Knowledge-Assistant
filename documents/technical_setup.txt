@@ -1,0 +1,10 @@
+To deploy InsightX locally:
+
+1. Install Docker
+2. Clone the repository
+3. Run docker-compose up
+
+The backend runs on port 8000.
+The frontend runs on port 3000.
+
+Environment variables must be configured in a .env file.

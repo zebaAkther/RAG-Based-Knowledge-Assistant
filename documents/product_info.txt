@@ -1,0 +1,12 @@
+AcmeCorp's main product is InsightX.
+
+InsightX is a cloud-based analytics platform that allows companies to track KPIs, generate dashboards, and receive automated reports.
+
+Key features include:
+
+* Real-time data tracking
+* Custom dashboards
+* AI-powered insights
+* Integration with third-party tools
+
+The platform supports web and mobile access.

@@ -1,0 +1,7 @@
+If a user forgets their password, they can reset it using the "Forgot Password" link on the login page.
+
+If the platform is down, users should check the status page or contact support.
+
+Support is available 24/7 via email and chat.
+
+Typical response time is under 2 hours.

@@ -1,0 +1,21 @@
+AcmeCorp offers three pricing tiers:
+
+Basic Plan:
+
+* $29 per month
+* Up to 5 users
+* Standard dashboards
+
+Pro Plan:
+
+* $99 per month
+* Up to 25 users
+* Advanced analytics
+* API access
+
+Enterprise Plan:
+
+* Custom pricing
+* Unlimited users
+* Dedicated support
+* Custom integrations

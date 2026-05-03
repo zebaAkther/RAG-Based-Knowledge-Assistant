@@ -1,0 +1,8 @@
+AcmeCorp is a SaaS company based in New York.
+
+The CEO is Sarah Johnson.
+The CTO is David Lee.
+
+The company provides a cloud-based analytics platform that helps businesses monitor performance in real time.
+
+AcmeCorp serves over 5,000 customers globally.
